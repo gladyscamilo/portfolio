@@ -2,6 +2,7 @@ body {
     background-color:#432310ff;
     font-family:'Noto Serif TC', serif;
     text-align: center;
+    cursor: url("images/rose_cursor.gif"), auto;
 }
 
 h3 {
@@ -59,6 +60,3 @@ a:hover{
 a:visited{
     color:#d68873;
 }
-
-
-/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/symbols/sym-9/sym827.ani), url(https://ani.cursors-4u.net/symbols/sym-9/sym827.png), auto !important;} /* End https://www.cursors-4u.com */
