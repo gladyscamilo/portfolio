@@ -1,0 +1,64 @@
+body {
+    background-color:#432310ff;
+    font-family:'Noto Serif TC', serif;
+    text-align: center;
+}
+
+h3 {
+    margin:0px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family:'Uncial Antiqua',cursive; 
+    font-size: 30px;
+    color:#f1a18a;
+}
+
+p {
+    margin:0px;
+    padding-bottom: 20px;
+    padding-top: 20px; 
+    text-align: center;
+    font-size: 14px;
+    color:#C19F45ff;
+}
+
+h4 {
+    font-family:'Noto Serif TC', serif;
+    font-size: 15px;
+    color:#718106ff;
+}
+
+.content{
+    margin:30px;
+    height: 140px;
+    padding-top:20px;
+    padding-bottom:20px; 
+}
+
+.otherstuff {
+    margin:30px;
+    height:200px;
+    width:200px;
+    padding-top:20px;
+    padding-bottom:20px; 
+    border-radius: 45%;
+    background:#808016;
+}
+
+a {
+    font-family:'Uncial Antiqua',cursive;
+    color:rgb(248, 171, 3); 
+    font-size: 15px;
+}
+
+a:hover{
+    font-family: 'Uncial Atiqua',cursive;
+    color:#fcfc19;
+}
+
+a:visited{
+    color:#d68873;
+}
+
+
+/* Start https://www.cursors-4u.com */ * {cursor: url(https://ani.cursors-4u.net/symbols/sym-9/sym827.ani), url(https://ani.cursors-4u.net/symbols/sym-9/sym827.png), auto !important;} /* End https://www.cursors-4u.com */

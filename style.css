@@ -1,0 +1,135 @@
+body {
+    background-color:#fbe1cbcb;
+    font-family:'Noto Serif TC', serif;
+}
+
+a {
+    text-decoration:none;
+    color:black;
+}
+
+a:hover {
+    color:sienna;
+}
+
+.FCHlink {
+    color:sienna;
+}
+
+.FCHlink:hover {
+    color:blue; 
+}
+
+.tuotuolink {
+    color: sienna;
+}
+
+.tuotuolink:hover{
+    color:blue;
+}
+
+.yamacatlanlink{
+    color: sienna;
+}
+
+.yamacatlanlink:hover{
+    color:blue;
+}
+
+.amelialink{
+color: sienna;
+}
+
+.amelialink:hover{
+    color:blue;
+}
+
+.helen-link{
+    color: sienna;
+}
+
+.helen-link:hover{
+    color:blue;
+}
+
+.links {
+    list-style: none;
+    display: flex;
+    padding: 0;
+    font-size: 15px;
+}
+
+.links li {
+    padding-right: 30px; 
+}
+
+img {
+    max-width: 100%;
+}
+
+.myphoto{
+    padding-top:30px;
+    padding-bottom: 18px;
+   
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 300;
+    padding-bottom: 18px;
+}
+
+h4 {
+    font-size: 18px;
+    font-weight: 300;
+}
+
+h5{
+    font-size: 16px;
+    font-weight:bold;
+    margin-bottom: 0%;
+    margin-top: 0%;
+}
+
+p {
+    font-size:15px;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
+
+.cv-p1{
+    padding-top:30px;
+}
+
+
+.works-image-1{
+    padding-top: 30px;
+}
+
+.commission-image-1{
+    padding-top: 30px;
+}
+
+.contactinfo{
+    padding-top: 30px;
+}
+
+.contactart{
+    padding-top: 15px;
+}
+
+.photo-credit{
+    font-size: 13px;
+}
+
+@media screen and (max-width:500px) {
+    .links {
+        display: block;
+    }
+
+    .links li {
+        display: block;
+    }
+
+
+}
