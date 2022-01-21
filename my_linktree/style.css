@@ -3,7 +3,6 @@ body {
     font-family:'Noto Serif TC', serif;
     text-align: center;
     cursor: url("images/rose_cursor.gif"), default;
-    cursor: 
 }
 
 h3 {
@@ -61,4 +60,14 @@ a:hover{
 a:visited{
     font-family:'Uncial Antiqua', cursive;
     color:#d68873;
+}
+
+    @media screen and (max-width:500px) {
+        .links {
+            display: block;
+        }
+    
+        .links li {
+            display: block;
+        }
 }
