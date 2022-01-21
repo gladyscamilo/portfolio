@@ -31,7 +31,6 @@ h4 {
 
 .content{
     margin:30px;
-    height: 140px;
     padding-top:20px;
     padding-bottom:20px; 
 }
@@ -52,22 +51,12 @@ a:link {
     font-size: 15px;
 }
 
-a:hover{
-    font-family: 'Kings', cursive;
-    color:#fcfc19;
-}
-
 a:visited{
     font-family:'Uncial Antiqua', cursive;
     color:#d68873;
 }
 
-    @media screen and (max-width:500px) {
-        .links {
-            display: block;
-        }
-    
-        .links li {
-            display: block;
-        }
+a:hover{
+    font-family: 'Uncial Antiqua', cursive;
+    color:#fcfc19;
 }
