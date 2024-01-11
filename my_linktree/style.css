@@ -1,62 +1,62 @@
 body {
-    background-color:#432310ff;
-    font-family:'Noto Serif TC', serif;
+    background-color: #432310ff;
+    font-family: 'Noto Serif TC', serif;
     text-align: center;
     cursor: url("images/rose_cursor.gif"), default;
 }
 
 h3 {
-    margin:0px;
+    margin: 0px;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-family:'Uncial Antiqua',cursive; 
+    font-family: 'Uncial Antiqua',cursive; 
     font-size: 30px;
-    color:#f1a18a;
+    color: #f1a18a;
 }
 
 p {
-    margin:0px;
+    margin: 0px;
     padding-bottom: 20px;
     padding-top: 20px; 
     text-align: center;
     font-size: 14px;
-    color:#C19F45ff;
+    color: #C19F45ff;
 }
 
 h4 {
-    font-family:'Noto Serif TC', serif;
+    font-family: 'Noto Serif TC', serif;
     font-size: 15px;
-    color:#718106ff;
+    color: #718106ff;
 }
 
 .content{
-    margin:30px;
-    padding-top:20px;
-    padding-bottom:20px; 
+    margin: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
 }
 
 .otherstuff {
-    margin:30px;
-    height:200px;
-    width:200px;
-    padding-top:20px;
-    padding-bottom:20px; 
+    margin: 30px;
+    height: 200px;
+    width: 200px;
+    padding-top: 20px;
+    padding-bottom: 20px; 
     border-radius: 45%;
-    background:#808016;
+    background: #808016;
 }
 
 a:link {
-    font-family:'Uncial Antiqua', cursive;
-    color:rgb(248, 171, 3); 
+    font-family: 'Uncial Antiqua', cursive;
+    color: rgb(248, 171, 3); 
     font-size: 15px;
 }
 
 a:visited{
-    font-family:'Uncial Antiqua', cursive;
-    color:#d68873;
+    font-family: 'Uncial Antiqua', cursive;
+    color: #d68873;
 }
 
 a:hover{
     font-family: 'Uncial Antiqua', cursive;
-    color:#fcfc19;
+    color: #fcfc19;
 }

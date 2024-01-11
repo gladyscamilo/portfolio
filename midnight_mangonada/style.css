@@ -1,0 +1,105 @@
+
+body{
+    background-image: url(disco.gif);
+    background-repeat: repeat;
+    border-style: ridge;
+    border-width: 15px;
+    border-color: rgb(255, 134, 193);
+    border-radius: 3px;
+}
+
+.heading{
+    text-align: center;
+}
+
+.info{
+    background-color: rgba(154, 110, 224, 0.811);
+    margin-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width:600px;
+}
+
+h2{
+    font-size: 100px;
+    color: rgb(255 247 5 / 91%);
+    text-transform: uppercase;
+    letter-spacing: -6px;
+    text-shadow: -5px -2px 9px pink;
+    filter: drop-shadow(-8px 5px 5px purple);
+}
+
+h3{
+    font-family: 'Noto Serif TC', serif;
+    color: rgb(255, 65, 65);
+    font-size: 18px;
+    font-weight: 400;
+    text-transform: uppercase;
+    filter: drop-shadow(-2px 2px 10px green);
+    letter-spacing: 5px;
+    margin: 25px 10px;
+    text-align: flex;
+    text-align: center;
+    background-color: rgb(66, 52, 255);
+}
+
+p{
+    font-size: 14px;
+    color: white;
+    text-align: flex;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 160px;
+    padding-right: 150px;
+}
+
+.audio-link{
+    margin: 20px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: rgba(154, 110, 224, 0.811);
+    max-width: 600px;
+}
+
+.cover-art{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    background-color: rgba(154, 110, 224, 0.811);
+    max-width: 600px;
+}
+
+.link{
+    font-family: 'Noto Serif TC', serif;
+    font-size: 12px;
+    text-align: flex;
+    text-align: center;
+    padding: 15px;
+}
+
+a:link {
+    color: hotpink;    
+}
+
+a:visited{
+    color: rgb(67, 49, 140);
+}
+
+a:hover{
+    color: rgb(213, 254, 90);
+}
+
+.gif{
+    display: flex;
+    justify-content: center;
+    padding: 50px;
+}
