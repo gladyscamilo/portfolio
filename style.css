@@ -19,10 +19,10 @@ body {
 
 h4 {
     font-family: "Ancient Modern Tales";
-    letter-spacing: 16px;
+    letter-spacing: 5px;
     color: #925D25;
     font-size: 45px;
-    padding-left: 30px;
+    padding-left: 10px;
     margin-bottom: 30px;
 }
 
@@ -47,10 +47,6 @@ p {
 ===============================================
 */
 
-img {
-    max-width: 100%;
-    height: auto;
-}
 
 .feature-image {
     position: fixed;
@@ -73,13 +69,12 @@ img {
 
 .portrait{
     position: relative;
-    padding-left: 20px;
 }
 
 .blob-about{
     position:absolute;
     z-index: 2;
-    transform: scale(1.3) translateY(-30px);
+    transform: scale(0.4) translateY(-1200px) translateX(-880px); 
 }
 
 .grid-container {
